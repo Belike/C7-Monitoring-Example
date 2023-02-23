@@ -32,3 +32,6 @@
 .idea/**/gradle.xml
 .idea/**/libraries
 .idea
+target
+grafana
+Engine
