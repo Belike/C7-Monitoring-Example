@@ -9,6 +9,8 @@ The following dependencies are needed at configuration/userlib for Prometheus in
 
 - Micrometer-Core-1.9.6.jar
 - Microemter-Registry-Prometheus-1.9.6.jar
+- Spring-Actuator-2.7.6.jar
+- Spring-Actuator-Autoconfigure-2.7.6.jar
 - Simpleclient_common-0.15.0.jar
 - Simpleclient_tracer_otel_agent-0.15.0.jar
 - Simpleclient_tracer_otel-0.15.0.jar

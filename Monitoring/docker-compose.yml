@@ -33,6 +33,6 @@ services:
       - 'GF_SMTP_ENABLED=true'
       - 'GF_SMTP_HOST=smtp.sendgrid.net:587'
       - 'GF_SMTP_USER=apikey'
-      - 'GF_SMTP_PASSWORD='
-      - 'GF_SMTP_FROM_ADDRESS='
+      - 'GF_SMTP_PASSWORD=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'
+      - 'GF_SMTP_FROM_ADDRESS=norman.luering@camunda.com'
     restart: always
